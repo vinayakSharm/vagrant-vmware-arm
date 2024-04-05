@@ -2,7 +2,7 @@
 # vi:set ft=ruby sw=2 ts=2 sts=2:
 
 # Define the number of nodes
-NUM_NODE = 1
+NUM_NODE = 3
 
 # All Vagrant configuration is done below. The "2" in Vagrant.configure
 # configures the configuration version (we support older styles for
